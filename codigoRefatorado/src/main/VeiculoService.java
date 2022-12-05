@@ -2,17 +2,6 @@ package main;
 
 public class VeiculoService {
 
-	/* Boas práticas demonstradas: 
-	 * - Exemplo sobre nomes intuitivos de funções;
-	 * - Código pode ser lido como uma narrativa;
-	 * - Parâmetros foram reduzidos a um objeto;
-	 * - Validações extraídas para outras funções;
-	 * - Alterar valor de um atributo somente depois de validar corretamente; 
-	 * - Nome de booleano deve estar fazendo uma pergunta;
-	 * - Indentação até nível 2;
-	 * - Possível pegadinha: testes unitários.
-	 */
-	
 	public void ligar(Veiculo veiculo) throws VeiculoException {
 		if (estaLigado(veiculo))
 			throw new VeiculoException("Veículo já está ligado.");
