@@ -9,3 +9,10 @@ Tendo isso em vista, neste repositório temos dois projetos: um com um código s
 <p>Uma sugestão de leitura a respeito de código limpo e boas práticas: <br>
   https://github.com/ThaliaLevy/clean-code-workshop/files/10218873/Resumo_-_Cdigo_Limpo.pdf
 </p>
+
+<h4>Tecnologias utilizadas:</h4>
+
+<p>
+<img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" alt="java" height="40px"> 
+<img src="https://img.icons8.com/material-outlined/256/notion.png" alt="notion" height="30px"> 
+</p>
